@@ -43,7 +43,7 @@ In this first step we go into our program and features control panel, and then s
 
 </p>
 <p>
-In this second step, we install MySql, and create our root passsword. The only thing you need to do in this step, is to click on the folder including the mySql file, and download it, and then install. Hit next until the end, then select finish installing.
+In this second step, we install MySql, and create our root password. The only thing you need to do in this step, is to click on the folder including the mySql file, and download it, and then install. Hit next until the end, then select finish installing.
 </p>
 <br />
 
