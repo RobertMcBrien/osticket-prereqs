@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this first step we go into our program and features control panel, and then select windows features, then we proceed to turn on internet information services.
 </p>
 <br />
 
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this second step, we install MySql, and create our root passsword. The only thing you need to do in this step, is to click on the folder including the mySql file, and download it, and then install. Hit next until the end, then select finish installing.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In our final step, you will configue the basic stallation information. After installing, enter in your help desk name, email, and proceed to create your password. After entering all of this data, we are finished setting up OsTicket Installer. 
 </p>
 <br />
